@@ -1,6 +1,7 @@
 # BrainTumorPrediction_DM
 A pattern classification analysis tool that potentially increased brain tumor diagnostic procedures. By taking an information picture, assign significance to different viewpoints in the picture and classify each case.
 
+Dataset - https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
 In this era of unprecedented changes, with the increase in ailments, the field of health demands the use of new technology to provide solutions to these problems. The brain tumor is one such malady that is the most life-threatening disease known to mankind. Even if this disease is detected in the primal stage, it’s not completely possible to find a cure within the time frame and save the patient’s life. 
 
